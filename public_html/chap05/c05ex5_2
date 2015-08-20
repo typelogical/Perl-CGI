@@ -1,0 +1,22 @@
+Content-type: text/html
+
+<HTML><HEAD><TITLE>Seminar Workshop</TITLE></HEAD><BODY>
+<H1>Seminar Workshop Registrations</H1><HR>
+<table><tr><td><h4><br>Seminar</b></p></td>
+
+<td></h4><br>Registered</b></h4></td></tr>
+<tr>
+<td>Computer Maintenance</td><td>       2</td>
+</tr>
+<tr>
+<td>Microsoft Office</td><td>   4</td>
+</tr>
+<tr>
+<td>Unix Essentials</td><td>    2</td>
+</tr>
+<tr>
+<td>CGI/Perl</td><td>   2</td>
+</tr>
+<br><br>Total Registered: 10</table>
+</BODY>
+</HTML>
